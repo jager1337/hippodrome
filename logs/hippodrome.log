@@ -1,0 +1,32 @@
+2024-11-10 10:21:07,098 INFO  Main: Начало скачек. Количество участников: 7
+2024-11-10 10:21:27,489 INFO  Main: Окончание скачек. Победитель: 
+2024-11-10 10:22:17,988 INFO  Main: Начало скачек. Количество участников: 7
+2024-11-10 10:22:28,122 INFO  Main: Начало скачек. Количество участников: 7
+2024-11-10 10:23:32,240 INFO  Main: Окончание скачек. Победитель: 
+2024-11-10 10:31:43,850 DEBUG Main: Создание Hippodrome, лошадей [7]
+2024-11-10 10:31:43,850 INFO  Main: Начало скачек. Количество участников: 7
+2024-11-10 10:32:04,182 INFO  Main: Окончание скачек. Победитель: Cherry
+2024-11-10 10:32:58,274 ERROR Horse: Speed is negative
+2024-11-10 10:33:53,812 ERROR Main: Horses list is null
+2024-11-10 10:33:55,142 DEBUG Main: Создание Hippodrome, лошадей [50]
+2024-11-10 10:33:55,235 DEBUG Main: Создание Hippodrome, лошадей [30]
+2024-11-10 10:33:55,251 ERROR Main: Horses list is empty
+2024-11-10 10:33:55,251 DEBUG Main: Создание Hippodrome, лошадей [4]
+2024-11-10 10:33:55,251 ERROR Main: Horses list is empty
+2024-11-10 10:33:55,267 ERROR Main: Horses list is null
+2024-11-10 10:58:15,011 ERROR Horse: Distance is negative
+2024-11-10 10:58:15,039 ERROR Horse: Name is null
+2024-11-10 10:58:15,083 ERROR Horse: Name is blank
+2024-11-10 10:58:15,094 ERROR Horse: Name is blank
+2024-11-10 10:58:15,100 ERROR Horse: Name is blank
+2024-11-10 10:58:15,107 ERROR Horse: Name is blank
+2024-11-10 10:58:15,114 ERROR Horse: Name is blank
+2024-11-10 10:58:15,572 ERROR Horse: Name is null
+2024-11-10 10:58:15,583 ERROR Horse: Speed is negative
+2024-11-10 10:58:15,608 ERROR Horse: Name is blank
+2024-11-10 10:58:15,621 ERROR Horse: Name is blank
+2024-11-10 10:58:15,630 ERROR Horse: Name is blank
+2024-11-10 10:58:15,641 ERROR Horse: Name is blank
+2024-11-10 10:58:15,652 ERROR Horse: Name is blank
+2024-11-10 10:58:15,713 ERROR Horse: Speed is negative
+2024-11-10 10:58:15,734 ERROR Horse: Distance is negative
